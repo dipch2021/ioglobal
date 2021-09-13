@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-13T06:57:29 IST" name="Default suite" finished-at="2021-09-13T06:57:31 IST" duration-ms="1380">
+    <groups>
+    </groups>
+    <test started-at="2021-09-13T06:57:29 IST" name="Default test" finished-at="2021-09-13T06:57:31 IST" duration-ms="1380">
+      <class name="restMock.Tests">
+        <test-method signature="Test_RespBody()[pri:0, instance:restMock.Tests@10d307f1]" started-at="2021-09-13T06:57:29 IST" name="Test_RespBody" finished-at="2021-09-13T06:57:31 IST" duration-ms="1140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_RespBody -->
+        <test-method signature="Test_RespStatus()[pri:1, instance:restMock.Tests@10d307f1]" started-at="2021-09-13T06:57:31 IST" name="Test_RespStatus" finished-at="2021-09-13T06:57:31 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_RespStatus -->
+        <test-method signature="TestHeaders()[pri:2, instance:restMock.Tests@10d307f1]" started-at="2021-09-13T06:57:31 IST" name="TestHeaders" finished-at="2021-09-13T06:57:31 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHeaders -->
+        <test-method signature="TestNodes()[pri:3, instance:restMock.Tests@10d307f1]" started-at="2021-09-13T06:57:31 IST" name="TestNodes" finished-at="2021-09-13T06:57:31 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNodes -->
+        <test-method signature="TestPropertyName()[pri:4, instance:restMock.Tests@10d307f1]" started-at="2021-09-13T06:57:31 IST" name="TestPropertyName" finished-at="2021-09-13T06:57:31 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPropertyName -->
+        <test-method signature="TestPropertyURL()[pri:5, instance:restMock.Tests@10d307f1]" started-at="2021-09-13T06:57:31 IST" name="TestPropertyURL" finished-at="2021-09-13T06:57:31 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPropertyURL -->
+        <test-method signature="TestPropertyDescription()[pri:6, instance:restMock.Tests@10d307f1]" started-at="2021-09-13T06:57:31 IST" name="TestPropertyDescription" finished-at="2021-09-13T06:57:31 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPropertyDescription -->
+      </class> <!-- restMock.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
